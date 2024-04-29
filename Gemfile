@@ -97,3 +97,5 @@ gem "anthropic", "~> 0.1.0"
 gem "tiktoken_ruby", "~> 0.0.6"
 gem "solid_queue", "~> 0.2.1"
 gem "name_of_person"
+
+gem "dockerfile-rails", ">= 1.6", :group => :development
